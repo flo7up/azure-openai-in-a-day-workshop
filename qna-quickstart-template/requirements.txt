@@ -9,3 +9,5 @@ scipy==1.10.0
 scikit-learn==1.2.0
 tenacity
 tiktoken==0.3.0
+langchain-community 
+langchain-core
