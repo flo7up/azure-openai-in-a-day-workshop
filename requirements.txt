@@ -12,3 +12,6 @@ tenacity
 tiktoken==0.3.0
 llama-index==0.4.33
 langchain==0.2.1
+langchain-openai // import AzureChatOpenAI is deprecated
+langchain_experimental
+langgraph
